@@ -1,0 +1,3 @@
+Adds cookies.txt (firefox export) into Cookies (chromium sqlite)
+
+Used for claude.ai and stuff since ferdium doesn't let it log in via google
